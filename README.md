@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nellysbr
+- 👋 Hi, I’m @nellysbr, Thanks for showing here ![visitors](https://visitor-badge.glitch.me/badge?page_id=nellysbr)
 - 👀 Fullstack development and data structures.
-- 🌱 I’m currently learning reactjs and typescript.
+- 🌱 I’m currently working with reactjs and typescript.
 - 📫 You can reach me on my Linkedin https://www.linkedin.com/in/nelsonmello-eng/
 
 <!---
