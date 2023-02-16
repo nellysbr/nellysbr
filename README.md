@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @nellysbr, Thanks for showing here ![visitors](https://visitor-badge.glitch.me/badge?page_id=nellysbr)
+- 👋 Hi, I’m @nellysbr, Thanks for showing here 
 - 👀 Fullstack development and data structures.
 - 🌱 I’m currently working with reactjs and typescript.
-- 📫 You can reach me on my Linkedin https://www.linkedin.com/in/nelsonmello-eng/
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nellysbr)
+![linkedin](https://visitor-badge.glitch.me/badge?page_id=nellysbr)
+
 
 <!---
 nellysbr/nellysbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
