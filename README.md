@@ -14,8 +14,8 @@ const FullstackDev = {
 
 ``` 
 
-- 🌱 I’m currently learning cybersecurity (Pentest | Red Team)
-- 🥅 2023 Goals: Specialize in Cybersecurity and AppSec
+- 🌱 I am currently specializing in web application performance and SEO performance.
+
 
 ### Connect with me:
 
