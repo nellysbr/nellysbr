@@ -3,11 +3,11 @@
 const FullstackDev = {
   name: 'Nelson Mello',
   age: 32,
-  developmentInterests: ['AppSec', 'User interfaces', 'API REST'],
+  developmentInterests: ['Fullstack Development', 'AppSec', 'User interfaces', 'API REST'],
   
-  stack: ['Typescript', 'ReactJS', 'NextJS', 'Java', 'NodeJS', 'MongoDB', 'mySQL', 'PostgreSQL'],
-  tools: ['VSCode','Nvim', 'Git', 'Docker', 'Insomnia'],
-  mdStyle: ['HTML', 'Ant Design', 'TailwindCSS', 'Styled-Components', 'SASS']
+  stack: ['ReactJS', 'NextJS', 'Typescript', 'GO', 'NodeJS', 'Nestjs', 'MongoDB', 'mySQL', 'PostgreSQL'],
+  tools: ['VSCode','Nvim', 'Git', 'Docker', 'Kubernetes', 'Insomnia'],
+  mdStyle: ['HTML', 'TailwindCSS', 'CSS' 'Styled-Components', 'SASS', 'Shadcn']
  }
 
 
