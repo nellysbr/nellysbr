@@ -42,7 +42,7 @@ const FullstackDev = {
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/nelsonmello-eng/">
     <img src="https://img.shields.io/badge/LinkedIn-2867b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -55,12 +55,9 @@ const FullstackDev = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nellysbr&theme=dark" alt="GitHub Streak">
   </a>
 </p>
 
-
-
-Thanks for visiting my profile! 🙌
