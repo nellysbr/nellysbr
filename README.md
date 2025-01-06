@@ -57,8 +57,8 @@ const FullstackDev = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nellysbr&show_icons=true&theme=radical" alt="GitHub Stats">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nellysbr)](https://git.io/streak-stats)
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nellysbr)](https://git.io/streak-stats)
 
 
 Thanks for visiting my profile! 🙌
