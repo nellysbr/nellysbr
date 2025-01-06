@@ -31,8 +31,10 @@ const FullstackDev = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
@@ -45,7 +47,7 @@ const FullstackDev = {
   <a href="https://www.linkedin.com/in/nelsonmello-eng/">
     <img src="https://img.shields.io/badge/LinkedIn-2867b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nelson.melloo@hotmail.com">
+  <a href="mailto:contato@nelsonmello.com.br">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -59,18 +61,5 @@ const FullstackDev = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonMello&theme=radical" alt="GitHub Streak">
 </p>
 
----
-
-### 🚀 Recent Projects
-
-- 🔗 [Project Name 1](#) - Brief description of the project.
-- 🔗 [Project Name 2](#) - Brief description of the project.
-- 🔗 [Project Name 3](#) - Brief description of the project.
-
-Feel free to explore my repositories and connect with me for any collaboration or opportunities!
-
----
-
-⭐ **Pro Tip:** If you like what you see, don’t forget to give a star to my repositories!
 
 Thanks for visiting my profile! 🙌
