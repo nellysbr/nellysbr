@@ -6,10 +6,10 @@
 ```javascript
 const FullstackDev = {
   name: 'Nelson Mello',
-  age: 32,
+  age: 33,
   developmentInterests: ['Fullstack Development', 'AppSec', 'User interfaces', 'API REST'],
-  stack: ['ReactJS', 'NextJS', 'Typescript', 'GO', 'NodeJS', 'Nestjs', 'MongoDB', 'mySQL', 'PostgreSQL'],
-  tools: ['VSCode','Nvim', 'Git', 'Docker', 'Kubernetes', 'Insomnia'],
+  stack: ['ReactJS', 'NextJS', 'Typescript', 'GO', 'NodeJS', 'Nestjs', 'C#', 'Java' 'mySQL', 'PostgreSQL'],
+  tools: ['VSCode','Neovim', 'Git', 'Docker', 'Insomnia'],
   mdStyle: ['HTML', 'TailwindCSS', 'CSS', 'Styled-Components', 'SASS', 'Shadcn']
 };
 ```
